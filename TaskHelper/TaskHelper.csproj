@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Version>1.0.0</Version>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>RAGS.TaskHelper</PackageId>
+    <Authors>richardags</Authors>
+    <Title>TaskHelper</Title>
+    <Description>This is wrapper on Task that brings interface implementation and encapsulates the original Task.</Description>
+    <Copyright>MIT</Copyright>
+    <RepositoryUrl>https://github.com/richardags/RAGS.TaskHelper</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
